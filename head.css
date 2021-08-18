@@ -1,0 +1,36 @@
+.sidepanel{
+    position:fixed;
+    float: right;
+    padding-right: 20px;
+    top: 100px;
+    right:100px;
+        }
+
+
+.fa fa-bell{
+    position: relative;
+   
+    margin-right: 50px;
+    display:inline;
+
+}
+
+
+.BuyLink
+{text-decoration:none;
+padding: 20px;
+border-radius:2rem;
+border:solid 2px pink;
+font-size:20px;height:auto;
+margin: 50px;
+display: inline;
+}
+
+.fa fa-th-large{
+    
+    margin-right: 50px;
+   
+    display: inline;
+}
+
+

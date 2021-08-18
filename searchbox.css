@@ -1,0 +1,30 @@
+.fa fa-search{       
+    color:black;
+}      
+.search-box{
+left:250px;
+top:45px;
+position:fixed;
+display:flex;
+justify-content:left;
+align-items:left;
+            
+    }
+.search-text{
+width:10rem;
+border-radius:5px;
+position:fixed;
+border:solid 2px pink;
+        
+        }
+.searchbutton{
+width:2rem;
+height:2rem;
+position:absolute;
+color:black;
+display:grid;
+        }
+        
+        a{
+        text-decoration:none;
+        }
